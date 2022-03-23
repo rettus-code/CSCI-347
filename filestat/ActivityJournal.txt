@@ -1,0 +1,30 @@
+Activity Journal
+
+Name:Michael Rettus
+
+================================================================
+Start 3:30
+Estimated Time	03 00
+Plan:
+First I loaded the file argument into the address of file_details
+started with a switch case, but due to chasing an unrelated bug switched to 
+if else to determine file type. Did some reading on time library and
+learned how to implement strftime and localtime. After that it was pretty
+simple to create if else statments checking for permissions. By the time this
+was completed moving on to the extra credit was just figuring out 
+the st_.... return types for printf.
+(Order of implementation, testing approach, etc.)
+
+Complete 6:40
+Actual Time	03 10
+Observations:
+Reading up on the libraries can be very helpful. 
+Some good resources that I found:
+https://c-for-dummies.com/blog/?p=4101
+https://www.tutorialspoint.com/c_standard_library/time_h.htm
+https://www.tutorialspoint.com/c_standard_library/c_function_strftime.htm
+
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

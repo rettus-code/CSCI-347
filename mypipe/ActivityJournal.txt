@@ -1,0 +1,24 @@
+Activity Journal
+
+Name:Michael Rettus
+
+================================================================
+Start
+Estimated Time	04 00
+Plan:
+(Order of implementation, testing approach, etc.)
+Initially , I setup a method of parsing the input argument and properly 
+inputing them into the variables/array needed using printf to verify the 
+output would be correct. Next I created execvp functionalit in the child
+and parent and verifying the commands would run properly. Then I used dup2 
+to copy the execvp command from child to parent. Finally I set the execvp
+= to int variables if = -1 print command (command input) not found.
+Complete
+Actual Time	04 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Using strsep was interesting how it moved the pointer and made it
+easy to parse the command arguments. I'm not sure I fully understand 
+dup2 and would like to explore it in a more complex way.
+
+================================================================

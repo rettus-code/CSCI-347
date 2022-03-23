@@ -1,0 +1,22 @@
+Activity Journal
+
+Name:Michael Rettus
+
+================================================================
+Start 2:00
+Estimated Time	04 00
+Plan:
+(Order of implementation, testing approach, etc.)
+review each functions requirements and build the steps necesary 
+to complete them. Debug any failed test until it passes and then
+move to the next function. 
+
+Complete 6:37
+Actual Time	02 37
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Keeping the examples provided in the assignment of how to manipulate
+pointers was helpfull, and learning that you can simply test *ptr
+then ptr++ was an effective way to iterate an array.
+
+================================================================

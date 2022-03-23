@@ -1,0 +1,27 @@
+Activity Journal
+
+Name:Michael Rettus
+
+================================================================
+Start 5:30
+Estimated Time	04 00
+Plan:
+first was to open/create the file and write them encrypted code
+after first test I needed to chmod to change permissions so I can 
+check the encryption. After that I added user permissions to make
+it easier especially so I wouldn't need to change permission to
+be able to decrypt. I used the same code for decryption and just
+changed some values. 
+(Order of implementation, testing approach, etc.)
+
+Complete 8:30
+Actual Time	03 00
+Observations:
+I'd like to use a more complicated method of encrypting but didn't
+want to risk problems with assignment compliance.
+
+
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

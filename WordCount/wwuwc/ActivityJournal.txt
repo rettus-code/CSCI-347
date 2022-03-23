@@ -1,0 +1,24 @@
+Activity Journal
+
+Name: Michael Rettus
+
+================================================================
+Start 
+Estimated Time	4:00 pm 10/2/2021
+Plan: My initial thoughts were to create an array to scan the files in.
+Realizing I just need a simple count it seemed an array would doube the work
+after getting the byte size with read() I used that for total chars
+after that I ran a while loop using getchar(fptr) counting up lines and words
+lines came after checking for the ascii integer for \n. words were more complicated
+the were counted after any ascii value of " " and \n not preceeded by a " " or \n.
+
+Complete
+Actual Time	7:36 pm 10/2/2021
+Observations:
+it was easy for me to understand the logic of the operation I wanted to do,
+but my unfamiliarity of C slowed me down significantly. It should have only 
+taken an hour to complete. It was a good lesson and gives me something new to
+challenge myself with.
+
+
+================================================================

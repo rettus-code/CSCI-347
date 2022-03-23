@@ -1,0 +1,28 @@
+Activity Journal
+
+Name:Michael Rettus and Griffin Craft
+
+================================================================
+Start
+Estimated Time	16 00
+Plan:
+Griffin focused on myshell and argparse while I would work on 
+builtin. Once we had a generic running version we tested it to
+identify errors and debug. Once the general shell was working 
+added _ls (ls) to complete the project. With extra time added
+color codes to path, files and directories to make a visual 
+distinction and the ability to print in a vertical list with
+_ls -l
+
+Complete
+Actual Time	~ 12 30
+Observations:
+Working in a team is a great exercise and one we enjoyed. It pushes
+individuals to work harder to not let each other down. Downside 
+is a loss of understanding of the what the different parts of
+code are doing since we were not directly involved with it. We had
+to spend additional time after to learn how it all worked. This 
+is a realistic expectation of collaboration and we understand 
+it's not always necesary to know how all parts of it work.
+
+================================================================

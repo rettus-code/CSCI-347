@@ -1,0 +1,31 @@
+Activity Journal
+
+Name:Michael Rettus
+
+================================================================
+Start
+Estimated Time	4 0
+Plan:
+(Order of implementation, testing approach, etc.)
+first I tackled opening and reading the file, folllowed by passing
+the data to ascii to brail and returning a simple braille value. I 
+wanted to get the other processes done before converting the values
+from there I created a double pointer to contain the braille values
+pass it to the write function to verify it was passing it correctly.
+Then created the format to print to the outfile and once I was happy
+with that I tackled the process of converting the ascii to their 
+actual values followed by validating the correct values printed. 
+
+Complete
+Actual Time	16 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Initially created a 2d array to avoid using malloc and found it
+seemed to complicate things more. After swithing to a double 
+pointer, I was more easile able to pass the pointers I needed.
+Also formatting was a challenge, I was uncertain about some of the 
+specifics regarding end of line in the outfile. By in all a 
+challenging assignment that I should have spent more time on to 
+properly implement the code.
+
+================================================================
